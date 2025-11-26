@@ -44,6 +44,9 @@
     "test:update": "react-scripts test --coverage --updateSnapshot --env=jsdom --watchAll=false",
     "eject": "react-scripts eject"
   },
+  "engines": {
+    "node": "18.20.8"
+  },
   "eslintConfig": {
     "extends": [
       "react-app",
